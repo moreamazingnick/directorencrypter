@@ -1,0 +1,5 @@
+Module: directorencrypter
+Version: 0.1.0
+Depends: director
+Description: Encryption module for Director fields
+ This is a simple encryption module for Director fields
